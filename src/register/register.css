@@ -1,0 +1,20 @@
+.regis{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('./india-6587843__340.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.frm{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 400px;
+    height: 600px;
+    background-color: rgba(228, 226, 226, 0.247);
+    
+}

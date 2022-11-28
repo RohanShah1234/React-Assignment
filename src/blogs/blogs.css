@@ -1,0 +1,16 @@
+.blo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    height: 200vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image{
+    height: 100%;
+    width: 130%;
+}
+.blog{
+}
